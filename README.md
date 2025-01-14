@@ -10,5 +10,6 @@ IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" usei para criar um avatar virtual e voz sintetizada, porem com versão gratuita as ferramentas ficam limitadas. 
 ## 🚀 Resultados
 O vídeo é uma historia infantil para ajudar no processo de desfralde.
+link para o video: https://github.com/karlaaso/hist-ria-infantil/blob/main/Untitled%20video.mp4
 
 
